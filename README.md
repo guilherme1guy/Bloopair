@@ -1,7 +1,12 @@
+# THIS IS A FORK, CHECK THE ORIGINAL ON https://github.com/GaryOderNichts/Bloopair
+
 ![Banner](Bloopair.png?raw=true)
 # Bloopair
 Bloopair allows connecting controllers from other consoles like native Wii U Pro Controllers on the Wii U.  
 It temporarily applies patches to the IOS-PAD module responsible for Bluetooth controller connections.
+
+## Changes on this fork
+- Swap X <-> Y, A <-> B on Xbox controllers
 
 ## Features
 - Connect up to 7 controllers wirelessly via Bluetooth
